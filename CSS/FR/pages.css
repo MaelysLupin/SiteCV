@@ -1,6 +1,105 @@
-.flag{
-    width: 35px;
-    height: 35px;
-    margin-left: 0.5em;
-    margin-right: 0.5em;
+body
+{
+    background-color: white; /* Le fond de la page sera blanc */
+    color: black; /* Le texte de la page sera noir */
+    /*background-image: url("Fond.png");*/
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+    background-size:100% auto;
+    
 }
+
+header{
+    background-color: yellow; /* Le fond de la page sera blanc */
+    color: black; /* Le texte de la page sera noir */
+    /*background-image: url("Fond.png"); */
+}
+
+div#Nom h1{
+  text-align: center;
+}
+
+div#Nom p{
+  text-align: center;
+}
+
+div#Presentation{
+  background-color: black;
+}
+
+div#Presentation div{
+  display : inline-block;
+}
+
+
+div#Box4{
+  background-color: orange;
+}
+
+div#Box5{
+  background-color: red;
+  text-align: center;
+  vertical-align:top;
+  width : 32%;
+}
+
+div#Box6{
+  background-color: green;
+  text-align: center;
+  width : 31%;
+}
+
+div#Box7{
+  background-color: yellow;
+  text-align: right;
+  vertical-align:top;
+  width : 31%;
+}
+
+div#Box7 .Tel{
+  background-color: orange;
+}
+
+div#Box7 .Link{
+  background-color: blue;
+}
+
+div#Box7 .Email{
+  background-color: red;
+}
+
+div#Box8{
+  background-color: blue;
+  text-align: center;
+  vertical-align:top;
+  width : 5%;
+}
+
+div#Boxnav div{
+  background-color: orange;
+  display : inline-block;
+  vertical-align:top;
+  text-align: center;
+}
+
+div#Box9{
+  background-color: orange;
+  width : 25%;
+}
+
+div#Box10{
+  background-color: orange;
+  width : 24%;
+}
+
+div#Box11{
+  background-color: orange;
+  width : 24%;
+}
+
+div#Box12{
+  background-color: orange;
+  width : 26%;
+}
+
