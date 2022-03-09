@@ -22,7 +22,7 @@ header{
     margin-left: 96%;
 }
 
-div#Nom {
+header div#Nom {
   text-align: center;
   position: absolute;
   font-family: Times, "Times New Roman", Georgia, serif;
