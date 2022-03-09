@@ -56,6 +56,7 @@ div#Box5{
   background-color: red;
   text-align: center;
   vertical-align:top;
+  margin-left: 1%;
   width : 32%;
 }
 
@@ -67,14 +68,14 @@ div#Box5 p{
 div#Box6{
   background-color: green;
   text-align: center;
-  width : 31%;
+  width : 33%;
 }
 
 div#Box7{
   background-color: yellow;
   text-align: right;
   vertical-align:top;
-  width : 31%;
+  width : 32%;
 }
 
 div#Box7 .Tel{
@@ -89,12 +90,6 @@ div#Box7 .Email{
   background-color: red;
 }
 
-div#Box8{
-  background-color: blue;
-  text-align: center;
-  vertical-align:top;
-  width : 4%;
-}
 
 div#Boxnav div{
   background-color: orange;
@@ -122,3 +117,4 @@ div#Box12{
   background-color: orange;
   width : 25%;
 }
+
