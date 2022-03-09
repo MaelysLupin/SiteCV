@@ -29,11 +29,15 @@ div#Nom h1,p{
   background-color: white;
   margin-left: 28%;
   margin-top: 1%;
-  border-radius: 5px;
   padding-top: 3%;
   padding-bottom: 8%;
   padding-left: 9%;
   padding-right: 10%;
+  border-left: 5px double black;
+  border-right: 5px double black;
+  border-top: 5px double black;
+  border-bottom: 5px double black;
+  border-radius: 5px;
 }
 
 div#Presentation{
