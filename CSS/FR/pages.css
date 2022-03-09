@@ -21,7 +21,7 @@ header{
     margin-left: 96%;
 }
 
-div#Nom h1,p{
+div#Nom {
   text-align: center;
   position: absolute;
   font-size: 50px;
