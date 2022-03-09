@@ -17,9 +17,11 @@ header{
 }
 
 .Drapeau{
-  background-color: red;
-  width : 10%;
-  height : 10%;
+    background-color: red;
+    width: 35px;
+    height: 35px;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
 }
 
 div#Nom h1{
