@@ -92,29 +92,30 @@ div#Box7 .Email{
 
 
 div#Boxnav div{
-  background-color: orange;
   display : inline-block;
   vertical-align:top;
   text-align: center;
+
 }
 
 div#Box9{
-  background-color: orange;
-  width : 25%;
+  background-color: grey;
+  width : 24%;
+  margin-left: 1%;
 }
 
 div#Box10{
-  background-color: orange;
+  background-color: red;
   width : 24%;
 }
 
 div#Box11{
-  background-color: orange;
+  background-color: yellow;
   width : 24%;
 }
 
 div#Box12{
-  background-color: orange;
-  width : 25%;
+  background-color: green;
+  width : 24%;
 }
 
