@@ -24,7 +24,6 @@ header{
 
 header div#Nom {
   text-align: center;
-  position: absolute;
   font-family: Times, "Times New Roman", Georgia, serif;
   background-color: white;
   border-left: 5px double black;
@@ -33,7 +32,6 @@ header div#Nom {
   border-bottom: 5px double black;
   border-radius: 5px;
     
-  margin-left: 30%;
   padding-left: 9%;
   padding-right: 10%;
 }
