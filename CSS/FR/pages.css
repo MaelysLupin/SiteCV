@@ -32,6 +32,9 @@ div#Presentation div{
   display : inline-block;
 }
 
+div#Box5 p{
+  text-align: left;
+}
 
 div#Box4{
   background-color: orange;
@@ -42,6 +45,11 @@ div#Box5{
   text-align: center;
   vertical-align:top;
   width : 32%;
+}
+
+div#Box5 p{
+  text-align: left;
+  background-color: yellow;
 }
 
 div#Box6{
