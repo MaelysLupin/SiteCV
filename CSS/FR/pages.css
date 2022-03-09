@@ -16,6 +16,12 @@ header{
     /*background-image: url("Fond.png"); */
 }
 
+.Drapeau{
+  background-color: red;
+  width : 10%;
+  height : 10%;
+}
+
 div#Nom h1{
   text-align: center;
 }
