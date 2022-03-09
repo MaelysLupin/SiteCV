@@ -14,7 +14,6 @@ header{
     background-color: #F1DEC8; /* Le fond de la page sera blanc */
     color: black; /* Le texte de la page sera noir */
     /*background-image: url("Fond.png"); */
-    height:30%;
 }
 
 .Drapeau{
@@ -35,6 +34,7 @@ header div#Nom {
   width : 30%;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 10%;
 }
 
 div#Presentation{
