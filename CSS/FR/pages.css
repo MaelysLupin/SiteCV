@@ -32,8 +32,9 @@ header div#Nom {
   border-bottom: 5px double black;
   border-radius: 5px;
     
-  padding-left: 9%;
-  padding-right: 10%;
+  width : 30%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 div#Presentation{
