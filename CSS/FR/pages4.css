@@ -11,7 +11,7 @@ header{
 }
 
 header div#Titre {
-  background-color: green;
+  background-color: grey;
   text-align: left;
   font-family: Times, "Times New Roman", Georgia, serif;
   width : 30%;
