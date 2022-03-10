@@ -82,18 +82,8 @@ div#Box7{
   width : 32%;
 }
 
-div#Box7 .Tel{
+div#Box7 .*{
   background-color: orange;
-  margin-left: 4%;
-}
-
-div#Box7 .Link{
-  background-color: blue;
-  margin-left: 4%;
-}
-
-div#Box7 .Email{
-  background-color: red;
   margin-left: 4%;
 }
 
