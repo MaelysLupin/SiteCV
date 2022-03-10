@@ -77,7 +77,7 @@ header div#Titre {
         width:0px;
     }
     to{
-        width:220px;
+        width:190px;
     }
 }
 
@@ -86,7 +86,7 @@ header div#Titre {
         width:0px;
     }
     to{
-        width:180px;
+        width:160px;
     }
 }
 
@@ -97,11 +97,11 @@ header div#Titre {
 
 #anglais{
     animation: entrance_ang 2.5s;
-    width:220px;
+    width:190px;
 }
 
 #espagnol{
     animation: entrance_esp 1.80s;
-    width:180px;
+    width:160px;
 }
 
