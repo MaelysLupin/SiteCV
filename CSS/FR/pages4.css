@@ -42,7 +42,7 @@ header div#Titre {
 
 .back_barre{ 
     width: 300px;
-    height: 24px;
+    height: 22px;
     padding: 4px;
     background-color: #ffe7d4;
     border-radius: 16px;
@@ -62,3 +62,46 @@ header div#Titre {
         -moz-border-radius: 12px;
     
 }
+
+@keyframes entrance_fr{
+    from{
+        width:0px;
+    }
+    to{
+        width:300px;
+    }
+}
+
+@keyframes entrance_ang{
+    from{
+        width:0px;
+    }
+    to{
+        width:240px;
+    }
+}
+
+@keyframes entrance_esp{
+    from{
+        width:0px;
+    }
+    to{
+        width:210px;
+    }
+}
+
+#francais{
+    animation: entrance_fr 2s;
+    width: 300px;
+}
+
+#anglais{
+    animation: entrance_ang 2.5s;
+    width:240px;
+}
+
+#espagnol{
+    animation: entrance_esp 1.80s;
+    width:210px;
+}
+
