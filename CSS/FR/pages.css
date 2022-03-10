@@ -77,7 +77,8 @@ div#Box6{
 
 div#Box7{
   background-color: yellow;
-  text-align: right;
+  text-align: left;
+  margin-left:2%;
   vertical-align:top;
   width : 32%;
 }
