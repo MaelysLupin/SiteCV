@@ -34,7 +34,6 @@ header div#Nom {
   width : 30%;
   margin-left: auto;
   margin-right: auto;
-  height:3em;
 }
 
 div#Presentation{
@@ -100,6 +99,7 @@ div#Boxnav div{
   display : inline-block;
   vertical-align:top;
   text-align: center;
+  height:3em;
 
 }
 
