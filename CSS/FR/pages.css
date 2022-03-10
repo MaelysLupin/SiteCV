@@ -84,14 +84,17 @@ div#Box7{
 
 div#Box7 .Tel{
   background-color: orange;
+  margin-left: 2%;
 }
 
 div#Box7 .Link{
   background-color: blue;
+  margin-left: 2%;
 }
 
 div#Box7 .Email{
   background-color: red;
+  margin-left: 2%;
 }
 
 
