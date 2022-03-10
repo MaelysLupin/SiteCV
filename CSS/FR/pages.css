@@ -50,6 +50,10 @@ div#Box5 p{
 
 div#Box4{
   background-color: orange;
+  padding-left:10%;
+  font-size: 20px;
+  font-family: "Lucida Console", Courier, monospace;
+  color: grey;
 }
 
 div#Box5{
