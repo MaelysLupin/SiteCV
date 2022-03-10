@@ -5,6 +5,11 @@ header{
     height:12em;
 }
 
+.Drapeau{
+    background-color: orange;
+    margin-left: 96%;
+}
+
 header div#Form{
   display : inline-block;
 }
