@@ -10,11 +10,6 @@ header{
     margin-left: 96%;
 }
 
-header div#Form{
-  display : inline-block;
-}
-
-
 header div#Titre {
   background-color: green;
   text-align: left;
