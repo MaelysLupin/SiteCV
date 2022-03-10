@@ -99,24 +99,23 @@ div#Boxnav div{
   display : inline;
   vertical-align:top;
   text-align: center;
-  width : 98%;
 
 }
 
 div#Box9{
   background-color: grey;
-  width : auto;
+  width : 32%;
   margin-left: 1%;
 }
 
 div#Box10{
   background-color: red;
-  width : auto;
+  width : 33%;
 }
 
 div#Box11{
   background-color: yellow;
-  width : auto;
+  width : 32%;
 }
 
 
