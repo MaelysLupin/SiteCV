@@ -1,0 +1,39 @@
+#barres{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-left:2em;
+    margin-top:2em;
+}
+
+.barre{
+    width:80%;
+    margin: 2em;
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.back_barre{ 
+    width: 300px;
+    height: 24px;
+    padding: 4px;
+    background-color: #ffe7d4;
+    border-radius: 16px;
+    -webkit-border-radius: 16px;
+    -moz-border-radius: 16px;
+}
+
+.progression{
+        content: '';
+        display: block;
+        position: absolute;
+        width: 200px;
+        height: 24px;
+        background: RGB(101,123,139);
+        border-radius: 12px;
+        -webkit-border-radius: 12px;
+        -moz-border-radius: 12px;
+    
+}
