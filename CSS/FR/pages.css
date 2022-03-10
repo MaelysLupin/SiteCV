@@ -104,18 +104,18 @@ div#Boxnav div{
 
 div#Box9{
   background-color: grey;
-  width : 32%;
+  width : auto;
   margin-left: 1%;
 }
 
 div#Box10{
   background-color: red;
-  width : 32%;
+  width : auto;
 }
 
 div#Box11{
   background-color: yellow;
-  width : 32%;
+  width : auto;
 }
 
 
