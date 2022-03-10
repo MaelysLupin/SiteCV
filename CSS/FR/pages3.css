@@ -1,0 +1,24 @@
+header{
+    background-color: #F1DEC8; /* Le fond de la page sera blanc */
+    color: black; /* Le texte de la page sera noir */
+    /*background-image: url("Fond.png"); */
+    height:12em;
+}
+
+.Drapeau{
+    background-color: orange;
+    margin-left: 96%;
+}
+
+header div#Titre {
+  background-color: green;
+  text-align: left;
+  font-family: Times, "Times New Roman", Georgia, serif;
+  width : 30%;
+  margin-left: 10%;
+}
+
+.Back{
+    background-color: orange;
+    margin-left: 3%;
+}
