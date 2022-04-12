@@ -37,7 +37,7 @@ header div#Nom {
 }
 
 div#Presentation{
-  padding-top:10%;
+  padding-top:5%;
   background-color: black;
 }
 
@@ -104,7 +104,6 @@ div#Boxnav div{
   text-align: center;
   height:3em;
     
-  padding-top:10%;
   font-size: 20px;
   font-family: "Lucida Console", Courier, monospace;
 
