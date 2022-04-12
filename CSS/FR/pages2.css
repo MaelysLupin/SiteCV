@@ -6,12 +6,10 @@ header{
 }
 
 .Drapeau{
-    background-color: orange;
     margin-left: 96%;
 }
 
 header div#Titre {
-  background-color: green;
   text-align: left;
   font-family: Times, "Times New Roman", Georgia, serif;
   width : 30%;
@@ -19,13 +17,14 @@ header div#Titre {
 }
 
 .Back{
-    background-color: orange;
     margin-left: 3%;
 }
 
 
 div#Box13{
-  background-color: yellow;
+  background-color: #F1DEC8;
+  border-radius:5px;
+    
   text-align:center;
   width : 94%;
   margin-left: 3%;
