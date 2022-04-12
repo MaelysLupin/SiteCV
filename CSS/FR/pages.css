@@ -18,7 +18,7 @@ header{
 }
 
 .Drapeau{
-    background-color: orange;
+    /*background-color: orange;*/
     margin-left: 96%;
 }
 
@@ -49,7 +49,7 @@ div#Box5 p{
 }
 
 div#Box4{
-  background-color: orange;
+  background-color: #EBE4DB;
   padding-left:10%;
   font-size: 20px;
   font-family: "Lucida Console", Courier, monospace;
@@ -103,22 +103,26 @@ div#Boxnav div{
   vertical-align:top;
   text-align: center;
   height:3em;
+    
+  padding-top:10%;
+  font-size: 20px;
+  font-family: "Lucida Console", Courier, monospace;
 
 }
 
 div#Box9{
-  background-color: grey;
+  background-color: #F1DEC8;
   width : 32%;
   margin-left: 1%;
 }
 
 div#Box10{
-  background-color: red;
+  background-color: #F1DEC8;
   width : 33%;
 }
 
 div#Box11{
-  background-color: grey;
+  background-color: #F1DEC8;
   width : 32%;
 }
 
