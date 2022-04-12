@@ -57,44 +57,27 @@ div#Box4{
 }
 
 div#Box5{
-  background-color: red;
   text-align: center;
   vertical-align:top;
+  font-size: 23px;
   margin-left: 1%;
   width : 32%;
 }
 
 div#Box5 p{
   text-align: left;
-  background-color: yellow;
 }
 
 div#Box6{
-  background-color: green;
   text-align: center;
   width : 33%;
 }
 
 div#Box7{
-  background-color: yellow;
   text-align: left;
   vertical-align:top;
   width : 32%;
-}
-
-div#Box7 .Tel{
-  background-color: orange;
-
-}
-
-div#Box7 .Link{
-  background-color: blue;
-
-}
-
-div#Box7 .Email{
-  background-color: red;
-
+  font-size: 20px;
 }
 
 
