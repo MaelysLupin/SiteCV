@@ -35,15 +35,19 @@ body
 div#Box13{
   background-color: #F1DEC8;
   border-radius:5px;
-    
   
   width : 94%;
   margin-left: 3%;
 }
 
+div#Box13 div{
+  margin-left: 2%;
+}
+
 div#Box13 h2{
   font-family: "Lucida Console", Courier, monospace;
   font-size: 25px;
+  margin-left: 1%;
 }
 
 div#Box16{
@@ -53,9 +57,14 @@ div#Box16{
   width : 94%;
 }
 
+div#Box16 div{
+  margin-left: 3%;
+}
+
 div#Box16 h2{
   font-family: "Lucida Console", Courier, monospace;
   font-size: 25px;
+  margin-left: 1%;
   
 }
 
@@ -78,8 +87,12 @@ div#Box23{
   margin-left: 3%;
 }
 
+div#Box23 div{
+  margin-left: 3%;
+}
+
 div#Box23 h2{
   font-family: "Lucida Console", Courier, monospace;
   font-size: 25px;
-  
+  margin-left: 1%;
 }
