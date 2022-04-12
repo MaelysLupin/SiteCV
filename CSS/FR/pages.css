@@ -2,12 +2,12 @@ body
 {
     background-color: white; /* Le fond de la page sera blanc */
     color: black; /* Le texte de la page sera noir */
-    /*background-image: url("Fond.png");*/
     background-attachment: scroll;
     background-repeat: no-repeat;
     background-position: 0px 0px;
     background-size:100% auto;
     font-family: Times, "Times New Roman", Georgia, serif;
+    font-size:18px;
     
 }
 
