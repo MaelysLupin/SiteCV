@@ -102,35 +102,27 @@ div#Boxnav div{
   display : inline-block;
   /*vertical-align:top;*/
   text-align: center;
-  height:1.5em;
-    
+  height:2em;
+  text-decoration:none;
+  border-radius: 5px;
   font-size: 20px;
   font-family: "Lucida Console", Courier, monospace;
+  background-color: #F1DEC8;
+  margin-top: auto;
+  margin-bottom: auto;
 
 }
 
 div#Box9{
-  background-color: #F1DEC8;
-  text-decoration:none;
-  text-align: center;
-  border-radius: 5px;
   width : 32%;
   margin-left: 1%;
 }
 
 div#Box10{
-  background-color: #F1DEC8;
-  border-radius: 5px;
-  text-decoration:none;
-  text-align: center;
   width : 33%;
 }
 
 div#Box11{
-  background-color: #F1DEC8;
-  border-radius: 5px;
-  text-decoration:none;
-  text-align: center;
   width : 32%;
 }
 
