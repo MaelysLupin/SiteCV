@@ -113,18 +113,21 @@ div#Boxnav div{
 div#Box9{
   background-color: #F1DEC8;
   text-decoration:none;
+  border-radius: 5px;
   width : 32%;
   margin-left: 1%;
 }
 
 div#Box10{
   background-color: #F1DEC8;
+  border-radius: 5px;
   text-decoration:none;
   width : 33%;
 }
 
 div#Box11{
   background-color: #F1DEC8;
+  border-radius: 5px;
   text-decoration:none;
   width : 32%;
 }
