@@ -1,56 +1,45 @@
 header{
-    background-color: #F1DEC8; /* Le fond de la page sera blanc */
+    background-color: #F1DEC8;
     color: black; /* Le texte de la page sera noir */
-    /*background-image: url("Fond.png"); */
     height:12em;
 }
 
 .Drapeau{
-    background-color: orange;
     margin-left: 96%;
 }
 
 header div#Titre {
-  background-color: green;
   text-align: left;
   font-family: Times, "Times New Roman", Georgia, serif;
-  width : 30%;
+  width : 50%;
   margin-left: 10%;
 }
 
 .Back{
-    background-color: orange;
     margin-left: 3%;
 }
 
+body
+{
+    background-color: white; /* Le fond de la page sera blanc */
+    color: black; /* Le texte de la page sera noir */
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+    background-size:100% auto;
+    font-family: Times, "Times New Roman", Georgia, serif;
+    font-size:18px;
+    
+}
+
 div#Box1 {
-  background-color: green;
+  background-color: #F1DEC8;
+  border-radius:5px;
   text-align: left;
   width : 96%;
   margin-left: 3%;
 }
 
-div#Box2 {
-  background-color: grey;
-  margin-left: 3%;
-}
-
-div#Box3 {
-  background-color: grey;
-  margin-left: 3%;
-}
-
-div#Box4 {
-  background-color: grey;
-  margin-left: 3%;
-}
-
-div#Box5 {
-  background-color: grey;
-  margin-left: 3%;
-}
-
-div#Box6 {
-  background-color: grey;
+div#Box1 div{
   margin-left: 3%;
 }
