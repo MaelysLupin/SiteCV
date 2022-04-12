@@ -12,7 +12,7 @@ header{
 header div#Titre {
   text-align: left;
   font-family: Times, "Times New Roman", Georgia, serif;
-  width : 30%;
+  width : 50%;
   margin-left: 10%;
 }
 
@@ -20,6 +20,18 @@ header div#Titre {
     margin-left: 3%;
 }
 
+body
+{
+    background-color: white; /* Le fond de la page sera blanc */
+    color: black; /* Le texte de la page sera noir */
+    /*background-image: url("Fond.png");*/
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+    background-size:100% auto;
+    font-family: Times, "Times New Roman", Georgia, serif;
+    font-size:18px;
+}
 
 div#Box13{
   background-color: #F1DEC8;
@@ -32,61 +44,43 @@ div#Box13{
 
 div#Box13 h2{
   font-family: "Lucida Console", Courier, monospace;
-  font-size: 20px;
-  text-align:left;
-}
-
-div#Box14{
-  background-color: grey;
-}
-
-div#Box15{
-  background-color: grey;
+  font-size: 25px;
 }
 
 div#Box16{
-  background-color: red;
+  background-color: #F1DEC8;
+  border-radius:5px;
   margin-left: 3%;
   width : 94%;
 }
 
 div#Box16 h2{
-  background-color: green;
+  font-family: "Lucida Console", Courier, monospace;
+  font-size: 25px;
   
 }
 
-div#Box17{
-  background-color: yellow;
-}
 div#Box18{
-  background-color: grey;
   margin-left: 3%;
 }
-div#Box19{
-  background-color: yellow;
-}
+
 div#Box20{
-  background-color: grey;
   margin-left: 3%;
 }
-div#Box21{
-  background-color: yellow;
-}
+
 div#Box22{
-  background-color: grey;
   margin-left: 3%;
 }
 
 div#Box23{
-  background-color: grey;
+  background-color: #F1DEC8;
+  border-radius:5px;
   width : 94%;
   margin-left: 3%;
 }
 
-div#Box24{
-  background-color: yellow;
-}
-
-div#Box25{
-  background-color: yellow;
+div#Box23 h2{
+  font-family: "Lucida Console", Courier, monospace;
+  font-size: 25px;
+  
 }
