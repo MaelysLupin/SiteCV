@@ -104,7 +104,6 @@ div#Boxnav div{
   text-align: center;
   height:3em;
     
-  vertical-align:middle;
   font-size: 20px;
   font-family: "Lucida Console", Courier, monospace;
 
@@ -113,6 +112,7 @@ div#Boxnav div{
 div#Box9{
   background-color: #F1DEC8;
   text-decoration:none;
+  vertical-align:middle;
   border-radius: 5px;
   width : 32%;
   margin-left: 1%;
@@ -122,6 +122,7 @@ div#Box10{
   background-color: #F1DEC8;
   border-radius: 5px;
   text-decoration:none;
+  vertical-align:middle;
   width : 33%;
 }
 
@@ -129,6 +130,7 @@ div#Box11{
   background-color: #F1DEC8;
   border-radius: 5px;
   text-decoration:none;
+  vertical-align:middle;
   width : 32%;
 }
 
