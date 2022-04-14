@@ -39,8 +39,8 @@ header{
 
 .Drapeau{
     /*background-color: orange;*/
-    /*margin-left: 95%;*/
-    float:right;
+    margin-right: 3%;
+    /*float:right;*/
 }
 
 header div#Nom {
