@@ -12,12 +12,12 @@ body
 }
 /* unvisited link */
 a:link {
-  color: grey;
+  color: black;
 }
 
 /* visited link */
 a:visited {
-  color: grey;
+  color: black;
 }
 
 /* mouse over link */
