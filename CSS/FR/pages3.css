@@ -40,6 +40,29 @@ div#Box1 {
   margin-left: 3%;
 }
 
+div#Box1 h2{
+  margin-left: 1%;
+}
+
+
+
 div#Box1 div{
+  margin-left: 3%;
+}
+
+div#Box7 h2{
+  margin-left: 1%;
+}
+
+
+div#Box7 {
+  background-color: #F1DEC8;
+  border-radius:5px;
+  text-align: left;
+  width : 96%;
+  margin-left: 3%;
+}
+
+div#Box7 div{
   margin-left: 3%;
 }
