@@ -10,9 +10,28 @@ body
     font-size:18px;
     
 }
+/* unvisited link */
+a:link {
+  color: grey;
+}
+
+/* visited link */
+a:visited {
+  color: grey;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
 
 header{
-    background-color: #F1DEC8; /* Le fond de la page sera blanc */
+    background-color: #F1DEC8;
     color: black; /* Le texte de la page sera noir */
     /*background-image: url("Fond.png"); */
     height:12em;
@@ -50,7 +69,6 @@ div#Box5 p{
 }
 
 div#Box4{
-  /*background-color: #F5F5F5;*/
   font-size: 20px;
   font-family: "Lucida Console", Courier, monospace;
   color: grey;
