@@ -57,7 +57,7 @@ header div#Nom {
 
 div#Presentation{
   padding-top:3%;
-  border: 0.5em solid;
+  border: solid;
   border-color: grey;
   border-radius: 5px;
 }
