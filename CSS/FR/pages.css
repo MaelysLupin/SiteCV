@@ -58,8 +58,10 @@ header div#Nom {
 div#Presentation{
   padding-top:3%;
   border: solid;
-  border-color: grey;
+  border-color: #F1DEC8;
   border-radius: 5px;
+  outline-offset: 0.5em;
+  
 }
 
 div#Presentation div{
