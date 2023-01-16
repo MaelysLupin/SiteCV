@@ -1,0 +1,77 @@
+header{
+    background-color: #F1DEC8;
+    color: black; /* Le texte de la page sera noir */
+    height:12em;
+}
+
+.Drapeau{
+    margin-left: 95%;
+}
+
+header div#Titre {
+  text-align: left;
+  font-family: Times, "Times New Roman", Georgia, serif;
+  width : 50%;
+  margin-left: 10%;
+}
+
+.Back{
+    margin-left: 3%;
+}
+
+body
+{
+    background-color: white; /* Le fond de la page sera blanc */
+    color: black; 
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+    background-size:100% auto;
+    font-family: Times, "Times New Roman", Georgia, serif;
+    font-size:18px;
+}
+
+/* unvisited link */
+a:link {
+  color: black;
+  text-decoration:none;
+}
+
+/* visited link */
+a:visited {
+  color: black;
+}
+
+/* mouse over link */
+a:hover {
+  color: #B81118;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
+
+div#Box13, div#Box16, div#Box23{
+  background-color: #F1DEC8;
+  border-radius:5px;
+  width : 94%;
+  margin-left: 3%;
+}
+
+div#Box13 div, div#Box17, div#Box23 div{
+  margin-left: 2%;
+}
+
+div#Box13 h2, div#Box16 h2, div#Box23 h2{
+  font-family: "Lucida Console", Courier, monospace;
+  font-size: 25px;
+  margin-left: 1%;
+  padding-top: 1%;
+} 
+
+div#Box18{
+  margin-left: 5%;
+}
+
+

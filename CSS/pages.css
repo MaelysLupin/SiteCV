@@ -1,0 +1,132 @@
+body
+{
+    background-color: white; /* Le fond de la page sera blanc */
+    color: black; /* Le texte de la page sera noir */
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+    background-size:100% auto;
+    font-family: Times, "Times New Roman", Georgia, serif;
+    font-size:18px;
+    
+}
+/* unvisited link */
+a:link {
+  color: black;
+  text-decoration:none;
+}
+
+/* visited link */
+a:visited {
+  color: black;
+}
+
+/* mouse over link */
+a:hover {
+  color: #B81118;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
+
+header{
+    background-color: #F1DEC8;
+    height:12em;
+}
+
+.Drapeau{
+    margin-left: 95%;
+}
+
+header div#Nom {
+  text-align: center;
+  font-family: Times, "Times New Roman", Georgia, serif;
+  background-color: white;
+  border-left: 5px double black;
+  border-right: 5px double black;
+  border-top: 5px double black;
+  border-bottom: 5px double black;
+  border-radius: 5px;
+  width : 30%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div#Presentation{
+  padding-top:3%;
+  border: solid;
+  border-color: #F1DEC8;
+  border-radius: 5px;
+  outline-offset: 10px;
+  margin : 10px;
+  
+}
+
+div#Presentation div{
+  display : inline-block;
+}
+
+div#Box5 p{
+  text-align: left;
+}
+
+div#Box4{
+  font-size: 20px;
+  font-family: "Lucida Console", Courier, monospace;
+  color: grey;
+  margin-left: 1%;
+}
+
+div#Box5{
+  text-align: center;
+  vertical-align:top;
+  font-size: 21px;
+  margin-left: 1%;
+  width : 32%;
+}
+
+div#Box5 p{
+  text-align: left;
+}
+
+div#Box6{
+  text-align: center;
+  width : 33%;
+}
+
+div#Box7{
+  text-align: left;
+  vertical-align:top;
+  width : 32%;
+  font-size: 20px;
+}
+
+
+div#Boxnav div{
+  display : inline-block;
+  text-align: center;
+  height:1.5em;
+  text-decoration:none;
+  border-radius: 10px;
+  font-size: 22px;
+  font-family: "Lucida Console", Courier, monospace;
+  background-color: #F1DEC8;
+
+}
+
+div#Box9{
+  width : 32%;
+  margin-left: 1%;
+}
+
+div#Box10{
+  width : 33%;
+}
+
+div#Box11{
+  width : 32%;
+}
+
+

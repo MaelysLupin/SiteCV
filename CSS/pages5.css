@@ -1,0 +1,88 @@
+body
+{
+    background-color: white; /* Le fond de la page sera blanc */
+    color: black; /* Le texte de la page sera noir */
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+    background-size:100% auto;
+    font-family: Times, "Times New Roman", Georgia, serif;
+    font-size:18px;
+    
+}
+
+/* unvisited link */
+a:link {
+    color: black;
+    text-decoration:none;
+  }
+  
+/* visited link */
+a:visited {
+color: black;
+}
+  
+/* mouse over link */
+a:hover {
+color: #B81118;
+}
+
+/* selected link */
+a:active {
+color: blue;
+}
+
+.Back{
+    margin-left: 3%;
+}
+  
+header{
+    background-color: #F1DEC8;
+    height:12em;
+}
+  
+header h1{
+    margin-left: 10%;
+}
+
+.Drapeau{
+    margin-left: 95%;
+}
+
+
+div#Section1{
+    margin-left: 2%;
+    background-color: #F1DEC8;
+    border-radius:5px;
+    text-align: left;
+    width : 96%;
+}
+
+div#Section1 h3{
+    margin-left: 3%;
+    padding-top: 1%;
+}
+
+div#Section1 p{
+    margin-left: 2%;
+    /* padding-top: 1%; */
+}
+
+div#Subsection1 img{
+    margin: auto;
+    display: flex;
+    width : 33%;
+}
+
+div#Subsection2 p{
+    margin-left: 3%;
+    padding-top: 3%;
+    padding-bottom: 2%;
+}
+
+div#Subsection3 img{
+    margin: auto;
+    display: flex;
+    width : 70%;
+    padding-bottom: 2%;
+}

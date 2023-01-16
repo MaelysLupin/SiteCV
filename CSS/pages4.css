@@ -1,0 +1,104 @@
+header{
+    background-color: #F1DEC8; /* Le fond de la page sera blanc */
+    color: black; /* Le texte de la page sera noir */
+    /*background-image: url("Fond.png"); */
+    height:12em;
+}
+
+.Drapeau{
+    margin-left: 95%;
+}
+
+header div#Titre {
+  text-align: left;
+  font-family: Times, "Times New Roman", Georgia, serif;
+  width : 30%;
+  margin-left: 10%;
+}
+
+.Back{
+    margin-left: 3%;
+}
+
+#barres{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-left:2em;
+    margin-top:2em;
+}
+
+.barre{
+    width:80%;
+    margin: 2em;
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.back_barre{ 
+    width: 290px;
+    height: 15px;
+    padding: 4px;
+    background-color: #ffe7d4;
+    border-radius: 16px;
+    -webkit-border-radius: 16px;
+    -moz-border-radius: 16px;
+}
+
+.progression{
+        content: '';
+        display: block;
+        position: absolute;
+        width: 200px;
+        height: 22px;
+        background: RGB(101,123,139);
+        border-radius: 12px;
+        -webkit-border-radius: 12px;
+        -moz-border-radius: 12px;
+    
+}
+
+@keyframes entrance_fr{
+    from{
+        width:0px;
+    }
+    to{
+        width:300px;
+    }
+}
+
+@keyframes entrance_ang{
+    from{
+        width:0px;
+    }
+    to{
+        width:220px;
+    }
+}
+
+@keyframes entrance_esp{
+    from{
+        width:0px;
+    }
+    to{
+        width:150px;
+    }
+}
+
+#francais{
+    animation: entrance_fr 2s;
+    width: 300px;
+}
+
+#anglais{
+    animation: entrance_ang 2.5s;
+    width:220px;
+}
+
+#espagnol{
+    animation: entrance_esp 1.80s;
+    width:150px;
+}
+

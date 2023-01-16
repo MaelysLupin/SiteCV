@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      
+        <meta charset="utf-8" />
+        <link rel="stylesheet" href="../../CSS/pages5.css" />
+        <title> Modélisation et simulation d'une plateforme 6 axes dans ROS/Gazebo (stage assistant ingénieur) </title>
+      
+    </head>
+
+      <header>
+        <span class="Drapeau">
+          <a href="../../HTML/EN/assist.html"><image class="flag" src="../../PHOTOS/English.png"/></a> </span>
+        
+        
+        <div id="Form">
+        <span class="Back">
+          <a href="Competences.html"><image class="flag" src="../../PHOTOS/back.png"/></a> </span>
+      
+        <div id="Titre">
+            <h1>Modélisation et simulation d'une plateforme 6 axes dans ROS/Gazebo (stage assistant ingénieur) </h1>
+        </div>
+        </div>
+      </header>
+  
+  
+    <body>
+      <div id="Section1">
+        <h3>Détails concernant le projet</h3>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;Il s'agit d'un projet effectué à l'Institut de Recherche de l'Ecole Navale 
+            dans le cadre d'un stage assistant ingénieur. Il s'agissait d'un stage de 4 mois (Août-décembre 2022).
+            La plateforme concernée est une plateforme 6 axes de type Stewart-platform. En plus de ces 6 axes, l'hexapode possède 
+            deux plaques, une fixe et une mobile. Dans le cadre de ce projet, la première étape a été la 
+            modélisation de cette plateforme (voir ci dessous) </p>
+        <div id="Subsection1">
+            <p> <img src="../../PHOTOS/Hexa.png" />  </p>
+        </div>
+
+        <div id="Subsection2">
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;Dans la suite du projet, il a été nécessaire de trier et étudier les fichiers pièces afin de pouvoir créer 
+                l'assemblage dans le logiciel Gazebo/ROS, un logiciel de simulation 3D open source.
+                Une fois cette modélisation effectuée dans le logiciel, j'ai eu l'occasion de créer les controlleurs de liaisons
+                ainsi qu'une interface afin d'envoyer les commande de rotation aux vérins. Dans cette interface, on renseigne l'angle de rotation selon
+                le roulis, le tangage et le lacet. Ces 3 valeurs de rotations vont ensuite être utilisées dans le calcul de longueur des vérins
+                qui va permettre de déduire la longueur de chaque vérin selon les valeurs de rotations et translations transmises a travers l'interface.
+                <br> Il est possible d'observer le resultat final de se projet ci dessous : 
+            </p>
+        </div>
+
+        <div id="Subsection3">
+            <p> <img src="../../PHOTOS/mouv.gif" />  </p>
+        </div>
+
+        <div id="Subsection4">
+            <p> Pour plus d'informations sur le projet : <i><a href=https://github.com/MaelysLupin/Stewart-platform/>https://github.com/MaelysLupin/Stewart-platform</a></i>  </p>
+        </div>
+
+      </div>
+
+      
+    </body> 
+
+</html>
