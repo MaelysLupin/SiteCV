@@ -74,7 +74,7 @@ header div#Titre {
         width:0px;
     }
     to{
-        width:220px;
+        width:240px;
     }
 }
 
@@ -94,7 +94,7 @@ header div#Titre {
 
 #anglais{
     animation: entrance_ang 2.5s;
-    width:220px;
+    width:240px;
 }
 
 #espagnol{
